@@ -18,3 +18,12 @@ p {
   color: Grey;
   font-size: 21px;
 }
+
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.footer {
+  text-align: right;
+}
